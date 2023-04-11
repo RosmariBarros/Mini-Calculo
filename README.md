@@ -4,8 +4,6 @@
 
 Arquivo referente ao projeto de uma calculadora simples com interface gráfica, e codificação em Python. 
 
-<img src="img/logo.png">
-
 
 ### Tela sistema
 
